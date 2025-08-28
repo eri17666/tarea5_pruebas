@@ -3,3 +3,7 @@ const fizzbuzz = require("../src/fizzbuzz");
 test("debería devolver '1' cuando el número es 1", () => {
 expect(fizzbuzz(1)).toBe("1");
 });
+
+test("debería devolver '2' cuando el número es 2", () => {
+expect(fizzbuzz(2)).toBe("2");
+});
