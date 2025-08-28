@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f527efe6e4d8656e32f308184bc192f86084204f",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-08-28T03:54:57.000Z",
       "message": "feat: retorna 'Fizz' para múltiplos de 3",
-      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/f527efe6e4d8656e32f308184bc192f86084204f"
     },
     "stats": {
       "total": 5,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-08-28T04:01:37.000Z",
+      "message": "feat: retorna 'Buzz' para multiplos de 5",
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
