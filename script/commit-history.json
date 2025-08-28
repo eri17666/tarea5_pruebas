@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "da565d723c72b5a71c46d2336e6e38f0f7ac1542",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-08-28T04:01:37.000Z",
       "message": "feat: retorna 'Buzz' para multiplos de 5",
-      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/da565d723c72b5a71c46d2336e6e38f0f7ac1542"
     },
     "stats": {
       "total": 5,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-08-28T04:07:34.000Z",
+      "message": "feat: retorna 'FizzBuzz' para multiplos de 3 y 5",
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 6,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

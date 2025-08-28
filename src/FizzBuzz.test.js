@@ -15,3 +15,7 @@ expect(fizzbuzz(3)).toBe("Fizz");
 test("debería devolver 'Buzz' cuando el numero es múltiplo de 5", () => {
 expect(fizzbuzz(5)).toBe("Buzz");
 });
+
+test("deberia devolver 'FizzBuzz' cuando el numero es múltiplo de 3 y 5", () => {
+expect(fizzbuzz(15)).toBe("FizzBuzz");
+});

@@ -1,10 +1,10 @@
 module.exports = fizzbuzz;
 
 function fizzbuzz(n) {
+if (n % 3 === 0 && n % 5 === 0) return "FizzBuzz";
 if (n % 3 === 0) return "Fizz";
 if (n % 5 === 0) return "Buzz";
-if (n === 1) return "1";
-if (n === 2) return "2";
+return n.toString();
 }
 
 
