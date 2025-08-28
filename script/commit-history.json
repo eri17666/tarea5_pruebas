@@ -76,17 +76,55 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bda31e75ab823891ff723131e0accce3f7ebbe06",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-08-28T04:07:34.000Z",
       "message": "feat: retorna 'FizzBuzz' para multiplos de 3 y 5",
-      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/bda31e75ab823891ff723131e0accce3f7ebbe06"
     },
     "stats": {
       "total": 8,
       "additions": 6,
       "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "bda31e75ab823891ff723131e0accce3f7ebbe06",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-08-28T04:34:27.000Z",
+      "message": "feat: integración completa de FizzBuzz con entrada de usuario",
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/bda31e75ab823891ff723131e0accce3f7ebbe06"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 30,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-08-28T04:37:49.000Z",
+      "message": "feat: refactory integración completa de FizzBuzz con entrada de usuario",
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 30,
+      "deletions": 0,
       "date": "2025-08-28"
     },
     "coverage": 100,
