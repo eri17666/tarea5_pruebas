@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-08-28T03:30:18.000Z",
+      "message": "feat: devuelve '1' para input 1  test",
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
