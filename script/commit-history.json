@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a995e7eaf2d5c382c2aab91fd45b509b8998c822",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-08-28T03:40:29.000Z",
       "message": "feat: devuelve '1' y '2' para un imput 1 y 2",
-      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/a995e7eaf2d5c382c2aab91fd45b509b8998c822"
     },
     "stats": {
       "total": 6,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-08-28T03:54:57.000Z",
+      "message": "feat: retorna 'Fizz' para múltiplos de 3",
+      "url": "https://github.com/eri17666/tarea5_pruebas/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

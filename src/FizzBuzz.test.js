@@ -7,3 +7,7 @@ expect(fizzbuzz(1)).toBe("1");
 test("debería devolver '2' cuando el número es 2", () => {
 expect(fizzbuzz(2)).toBe("2");
 });
+
+test("debería devolver 'Fizz' cuando el numero es multiplo de 3", () => {
+expect(fizzbuzz(3)).toBe("Fizz");
+});
